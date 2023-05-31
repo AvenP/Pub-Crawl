@@ -1,0 +1,472 @@
+
+[
+{
+    "name": "LAZARUS BREWING COMPANY",
+    "address": "1902 E. Sixth St., Austin, TX",
+    "zip_code": "78702",
+    "link": "https://www.lazarusbrewing.com/",
+    "brew_id": "400"
+},
+{
+    "name": "AUSTIN BEERWORKS",
+    "address": "3001 Industrial Terrace, Austin, TX",
+    "zip_code": "78758",
+    "link": "https://austinbeerworks.com/",
+    "brew_id": 401
+},
+{
+    "name": "ZILKER BREWING COMPANY",
+    "address": "1701 E. Sixth St., Austin, TX",
+    "zip_code": "78702",
+    "link": "https://zilkerbeer.com/",
+    "brew_id": 402
+},
+{
+    "name": "FAMILY BUSINESS BEER COMPANY",
+    "address": "19510 Hamilton Pool Rd., Dripping Springs, TX",
+    "zip_code": "78620",
+    "link": "https://familybusinessbeerco.com/",
+    "brew_id": 403
+},
+{
+    "name": "ST. ELMO BREWING COMPANY",
+    "address": "440 E. St. Elmo Rd., Austin, TX",
+    "zip_code": "78745",
+    "link": "https://www.stelmobrewing.com/heyyall",
+    "brew_id": 404
+},
+{
+    "name": "BLUE OWL BREWING",
+    "address": "2400 E Cesar Chavez St, #300, Austin, TX",
+    "zip_code": "78702",
+    "link": "https://blueowlbrewing.com/",
+    "brew_id": 405
+},
+{
+    "name": "MEANWHILE BREWING CO.",
+    "address": "23901 Promontory Point Dr, Austin, TX",
+    "zip_code": "78744",
+    "link": "https://www.meanwhilebeer.com/",
+    "brew_id": 406
+},
+{
+    "name": "CTX BEER GARDEN AT CELIS BREWERY",
+    "address": "10001 Metric Blvd., Austin, TX",
+    "zip_code": "78758",
+    "link": "https://www.celisbeers.com/",
+    "brew_id": 407
+},
+{
+    "name": "REAL ALE BREWING CO",
+    "address": "231 San Saba Ct, Blanco, TX 78606",
+    "zip_code": "78606",
+    "link": "https://realalebrewing.com/",
+    "brew_id": 408
+},
+{
+    "name": "AUSTIN EASTCIDERS (COLLABORATORY TAP ROOM)",
+    "address": "979 Springdale Rd, Ste. 130, Austin, TX",
+    "zip_code": "78702",
+    "link": "https://austineastciders.com/",
+    "brew_id": 409
+},
+{
+    "name": "LIVE OAK BREWING COMPANY",
+    "address": "1615 Crozier Ln, Del Valle, TX",
+    "zip_code": "78617",
+    "link": "https://liveoakbrewing.com/",
+    "brew_id": 410
+},
+{
+    "name": "BEERBURG BREWING",
+    "address": "13476 Fitzhugh Rd, Austin, TX",
+    "zip_code": "78736",
+    "link": "https://beerburgbrewing.com/",
+    "brew_id": 411
+},
+{
+    "name": "HI SIGN BREWING",
+    "address": "1201 Bastrop Hwy, Bldg A, Austin, TX",
+    "zip_code": "78742",
+    "link": "https://www.hisignbrewing.com/",
+    "brew_id": 412
+},
+{
+    "name": "PINTHOUSE PIZZA - BURNET",
+    "address": "4729 Burnet Road, Austin, TX",
+    "zip_code": "78756",
+    "link": "https://pinthouse.com/",
+    "brew_id": 413
+},
+{
+    "name": "THE AUSTIN BEER GARDEN BREWING CO",
+    "address": "1305 West Oltorf, Austin, TX",
+    "zip_code": "78704",
+    "link": "https://theabgb.com/",
+    "brew_id": 414
+},
+{
+    "name": "BLACK STAR CO-OP PUB & BREWERY",
+    "address": " 7020 Easy Wind Dr., Suite 100, Austin, TX",
+    "zip_code": "78752",
+    "link": "https://blackstar.coop/",
+    "brew_id": 415
+},
+{
+    "name": "JESTER KING BREWERY",
+    "address": "13187 Fitzhugh Rd., Austin, TX",
+    "zip_code": "78736",
+    "link": "https://jesterkingbrewery.com/",
+    "brew_id": 416
+},
+{
+    "name": "OASIS TEXAS BREWING COMPANY",
+    "address": "6550 Comanche Trail, Austin, TX",
+    "zip_code": "78732",
+    "link": "https://www.otxbc.com/",
+    "brew_id": 417
+},
+{
+    "name": "THIRSTY PLANET BREWING COMPANY",
+    "address": "8201 S. Congress, Austin, TX",
+    "zip_code": "78745",
+    "link": "https://www.thirstyplanet.beer/",
+    "brew_id": 418
+},
+{
+    "name": "CENTRAL MACHINE WORKS BREWERY",
+    "address": "4824 E. Cesar Chavez St., TX",
+    "zip_code": "78702",
+    "link": "https://www.cmwbrewery.com/",
+    "brew_id": 419
+},
+{
+    "name": "LAST STAND BREWING COMPANY (FITZHUGH)",
+    "address": "12345 Pauls Valley Rd., Bldg. J, Austin, TX",
+    "zip_code": "78737",
+    "link": "https://www.laststandbrewing.com/",
+    "brew_id": 420
+},
+{
+    "name": "SAVE THE WORLD BREWING CO.",
+    "address": "1510 Resource Parkway, Marble Falls, TX",
+    "zip_code": "78654",
+    "link": "",
+    "brew_id": 421
+},
+{
+    "name": "ROUGHHOUSE BREWING",
+    "address": "680 Oakwood Loop, San Marcos, TX",
+    "zip_code": "78666",
+    "link": "https://www.roughhousebrewing.com/",
+    "brew_id": 422
+},
+{
+    "name": "CENTRAL DISTRICT BREWING",
+    "address": "417 Red River St., Austin, TX",
+    "zip_code": "78701",
+    "link": "https://centraldistrictbrewing.com/",
+    "brew_id": 423
+},
+{
+    "name": "INDEPENDENCE BREWING COMPANY",
+    "address": "3913 Todd Ln., #607, Austin, TX",
+    "zip_code": "78744",
+    "link": "https://independencebrewing.com/",
+    "brew_id": 424
+},
+{
+    "name": "OSKAR BLUES BREWERY",
+    "address": "10420 Metric Blvd., Suite 150, Austin, TX",
+    "zip_code": "78758",
+    "link": "https://www.oskarblues.com/",
+    "brew_id": 425
+},
+{
+    "name": "STRANGE LAND BREWERY",
+    "address": "2500 NE Inner Loop, Georgetown, TX",
+    "zip_code": "78626",
+    "link": "https://strangelandbrewery.com/",
+    "brew_id": 426
+},
+{
+    "name": "DRAUGHT HOUSE PUB & BREWERY",
+    "address": "4112 Medical Parkway, Austin, TX",
+    "zip_code": "78756",
+    "link": "https://www.draughthouse.com/",
+    "brew_id": 427
+},
+{
+    "name": "INFAMOUS BREWING COMPANY",
+    "address": "4602 Weletka Dr., #200-300, Austin, TX",
+    "zip_code": "78734",
+    "link": "https://infamousbrewing.com/",
+    "brew_id": 428
+},
+{
+    "name": "NOMADIC BEERWORKS",
+    "address": "3804 Woodbury Dr, Ste A, Austin, TX",
+    "zip_code": "78704",
+    "link": "https://www.nomadicbeerworks.com/",
+    "brew_id": 429
+},
+{
+    "name": "OZ TAP HOUSE",
+    "address": "10601 Ranch Rd 2222 Suite H, Austin, TX",
+    "zip_code": "78730",
+    "link": "https://www.oztaphouse.com/",
+    "brew_id": 430
+},
+{
+    "name": "ODDWOOD ALES",
+    "address": "3108 Manor Rd., Austin, TX",
+    "zip_code": "78723",
+    "link": "https://www.oddwoodales.com/home",
+    "brew_id": 431
+},
+{
+    "name": "(512) BREWING COMPANY",
+    "address": "407 Radam Ln, Austin, TX",
+    "zip_code": "78745",
+    "link": "https://512brewing.com/",
+    "brew_id": 432
+},
+{
+    "name": "TEXAS KEEPER CIDER",
+    "address": "12521 Twin Creeks Rd, Manchaca, TX",
+    "zip_code": "78652",
+    "link": "https://texaskeeper.com/",
+    "brew_id": 433
+},
+{
+    "name": "TWISTED X BREWING COMPANY",
+    "address": "23455 W. RR 150, Dripping Springs, TX",
+    "zip_code": "78620",
+    "link": "https://www.twistedxbrewing.com/",
+    "brew_id": 434
+},
+{
+    "name": "FAIRWEATHER CIDER CO",
+    "address": "10609 Metric Blvd, Ste 108A, Austin, TX",
+    "zip_code": "78758",
+    "link": "http://www.fairweathercider.com/",
+    "brew_id": 435
+},
+{
+    "name": "FRIENDS & ALLIES BREWING",
+    "address": "979 Springdale Rd., #124, Austin, TX",
+    "zip_code": "78702",
+    "link": "https://friendsandallies.beer/",
+    "brew_id": 436
+},
+{
+    "name": "HOPSQUAD BREWING",
+    "address": "2307 Kramer Ln, Austin, TX",
+    "zip_code": "78758",
+    "link": "https://www.hopsquad.com/",
+    "brew_id": 437
+},
+{
+    "name": "HOLDOUT BREWING",
+    "address": "1208 W 4th St, Austin, TX",
+    "zip_code": "78703",
+    "link": "https://holdoutbrewing.com/",
+    "brew_id": 438
+},
+{
+    "name": "MOONTOWER CIDER CO",
+    "address": "1916 Tillery St, Austin, TX",
+    "zip_code": "78702",
+    "link": "https://www.moontowercider.com/",
+    "brew_id": 439
+},
+{
+    "name": "CORK & BARREL PUB",
+    "address": "4000 E Palm Valley Blvd, Round Rock, TX",
+    "zip_code": "78665",
+    "link": "https://corkandbarrelpub.com/",
+    "brew_id": 440
+},
+{
+    "name": "PINTHOUSE BREWING",
+    "address": "2201 E. Ben White Blvd., Austin, TX",
+    "zip_code": "78741",
+    "link": "https://pinthouse.com/ben-white/",
+    "brew_id": 441
+},
+{
+    "name": "VISTA BREWING",
+    "address": "13551 FM 150 W., Driftwood, TX",
+    "zip_code": "78619",
+    "link": "https://www.vistabrewingtx.com/",
+    "brew_id": 442
+},
+{
+    "name": "LAST STAND BREWING COMPANY (SOUTH CONGRESS)",
+    "address": "7601 S Congress Ave, Bldg. 6, Austin, TX",
+    "zip_code": "78745",
+    "link": "https://www.laststandbrewing.com/",
+    "brew_id": 443
+},
+{
+    "name": "THE BREWTORIUM",
+    "address": "6015 Dillard Circle, Ste. A, Austin, TX",
+    "zip_code": "78752",
+    "link": "https://www.thebrewtorium.com/",
+    "brew_id": 444
+},
+{
+    "name": "VACANCY BREWING",
+    "address": "415 E St Elmo Rd, 1-D2, Austin, TX",
+    "zip_code": "78745",
+    "link": "https://vacancybrewing.com/",
+    "brew_id": 445
+},
+{
+    "name": "CIRCLE BREWING COMPANY",
+    "address": "2340 W Braker Ln., Suite B, Austin, TX",
+    "zip_code": "78758",
+    "link": "https://www.circlebrewing.com/",
+    "brew_id": 446
+},
+{
+    "name": "GUNS & OIL BREWING COMPANY",
+    "address": "807 E 4th St, Austin, TX",
+    "zip_code": "78702",
+    "link": "https://www.gunsandoil.com/",
+    "brew_id": 447
+},
+{
+    "name": "SOUTHERN HEIGHTS BREWING CO.",
+    "address": "6014 Techni Center Dr., Austin, TX",
+    "zip_code": "78721",
+    "link": "http://www.southernheightsbrewing.com/",
+    "brew_id": 448
+},
+{
+    "name": "Weathered Souls Brewing Co.",
+    "address": "606 Embassy Oaks #500 San Antonio, Texas",
+    "zip_code": "78216",
+    "link": "https://weatheredsouls.beer/SATX/",
+    "brew_id": 200
+},
+{
+    "name": "Künstler Brewing",
+    "address": "302 E LaChappelle San Antonio, Texas",
+    "zip_code": "78204",
+    "link": "https://kuenstlerbrewing.com/",
+    "brew_id": 201
+},
+{
+    "name": "Freetail Brewing Company",
+    "address": "4035 N Loop 1604 W. Suite 105. San Antonio, Texas",
+    "zip_code": "78257",
+    "link": "https://www.freetailbrewing.com/",
+    "brew_id": 202
+},
+{
+    "name": "Longtab Brewing",
+    "address": "4700 Timco W, Ste #105 San Antonio, Texas",
+    "zip_code": "78238",
+    "link": "https://www.longtabbrewing.com/",
+    "brew_id": 203
+},
+{
+    "name": "HighWheel Beerworks (Dorćol Distilling+ Brewing Co.)",
+    "address": "1902 S Flores St San Antonio, Texas",
+    "zip_code": "78204",
+    "link": "http://dorcolspirits.com/beer-1",
+    "brew_id": 204
+},
+{
+    "name": "Southerleigh Fine Food & Brewery",
+    "address": "136 E Grayson St Ste 120 San Antonio, Texas",
+    "zip_code": "78215",
+    "link": "",
+    "brew_id": 205
+},
+{
+    "name": "Roadmap Brewing",
+    "address": "723 N Alamo St. San Antonio, Texas",
+    "zip_code": "78215",
+    "link": "https://www.roadmapbrewing.com/",
+    "brew_id": 206
+},
+{
+    "name": "Islla Street Brewing Company",
+    "address": "11911 Crosswinds Way San Antonio, Texas",
+    "zip_code": "78233",
+    "link": "",
+    "brew_id": 207
+},
+{
+    "name": "Ranger Creek Brewing & Distilling",
+    "address": "4834 Whirlwind Dr. San Antonio, Texas",
+    "zip_code": "78217",
+    "link": "https://drinkrangercreek.com/",
+    "brew_id": 208
+},
+{
+    "name": "Busted Sandal Brewing Company",
+    "address": "7114 Oaklawn Dr San Antonio, Texas",
+    "zip_code": "78229",
+    "link": "http://www.bustedsandalbrewing.com/",
+    "brew_id": 209
+},
+{
+    "name": "Alamo Beer Co.",
+    "address": "202 Lamar St San Antonio, Texas",
+    "zip_code": "78202",
+    "link": "https://www.alamobeer.com/",
+    "brew_id": 210
+},
+{
+    "name": "Blue Star Brewing Company",
+    "address": "1414 S. Alamo #105 San Antonio, Texas",
+    "zip_code": "78210",
+    "link": "https://bluestarbrewing.com/",
+    "brew_id": 211
+},
+{
+    "name": "Back Unturned Brewing Company",
+    "address": "516 Brooklyn Ave San Antonio, Texas",
+    "zip_code": "78215",
+    "link": "https://www.backunturned.com/",
+    "brew_id": 212
+},
+{
+    "name": "Dos Sirenos Brewing",
+    "address": "231 E Cevallos St San Antonio, Texas",
+    "zip_code": "78204",
+    "link": "https://dossirenosbrewing.com/",
+    "brew_id": 213
+},
+{
+    "name": "Mad Pecker Brewing Co.",
+    "address": "6025 Tezel Rd #122 San Antonio, Texas",
+    "zip_code": "78250",
+    "link": "https://madpeckerbrewing.com/",
+    "brew_id": 214
+},
+{
+    "name": "Ghost Pixel Beer Studio",
+    "address": "4035 N Loop 1604 W, Ste 105 San Antonio, Texas",
+    "zip_code": "78257",
+    "link": "",
+    "brew_id": 215
+},
+{
+    "name": "Second Pitch Beer Co.",
+    "address": "11935 Starcrest Dr. San Antonio, Texas",
+    "zip_code": "78247",
+    "link": "https://secondpitchbeer.com/",
+    "brew_id": 216
+},
+{
+    "name": "Black Laboratory Brewing",
+    "address": "1602 E Houston St Suite 109 San Antonio, Texas",
+    "zip_code": "78202",
+    "link": "https://www.blacklaboratorybrewing.com/",
+    "brew_id": 217
+}
+]
