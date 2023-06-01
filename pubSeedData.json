@@ -2,303 +2,304 @@
   {
     "id": "501",
     "name": "Keg & Brew Craft House",
-    "address": "2114 N Zaragoza Rd suite b-1, El Paso, TX 79938",
+    "address": "2114 N Zaragoza Rd suite b-1, El Paso, TX",
+    "zip_code": "79938",
     "link": "https://kegandbrew.com/",
-    "opens": "11:30am",
     "food": true
   },
   {
     "id": "502",
     "name": "Tin Man Airway",
-    "address": "1300 Airway Blvd c103, El Paso, TX 79925",
+    "address": "1300 Airway Blvd c103, El Paso, TX",
+    "zip_code": "79925",
     "link": "https://untappd.com/v/tin-man-airway/9003850",
-    "opens": "12:00pm",
     "food": true
   },
   {
     "id": "503",
     "name": "Keg & Brew Craft House #2",
-    "address": "7470 Cimarron Market Ave Suite 100 Building 7, El Paso, TX 79911",
+    "address": "7470 Cimarron Market Ave Suite 100 Building 7, El Paso, TX",
     "link": "https://kegandbrew.com/",
-    "opens": "11:30am",
+    "zip_code": "79911",
     "food": true
   },
   {
     "id": "504",
     "name": "Blazing Tree Brewery",
-    "address": "11426 Rojas Dr A-13, El Paso, TX 79936",
+    "address": "11426 Rojas Dr A-13, El Paso, TX",
+    "zip_code": "79938",
     "link": "https://blazingtreebreweryelpaso.com/",
-    "opens": "4:00pmm",
     "food": true
   },
   {
     "id": "505",
     "name": "Craft Rhythm & Brews",
-    "address": "1301 Texas Ave, El Paso, TX 79901",
+    "address": "1301 Texas Ave, El Paso, TX ",
     "link": "https://www.craftrhythmandbrews.com/",
-    "opens": "5:00pm",
+    "zip_code": "79901",
     "food": false
   },
   {
     "id": "506",
     "name": "Brewtopia Taphouse",
-    "address": "3260-B N Zaragoza Rd Suite 201, El Paso, TX 79938",
+    "address": "3260-B N Zaragoza Rd Suite 201, El Paso, TX",
+    "zip_code": "79938",
     "link": "https://brewtopiataphouse.com/",
-    "opens": "2:00pm",
     "food": false
   },
   {
     "id": "507",
     "name": "Tin Man Montecillo",
-    "address": "4935 N Mesa St #12, El Paso, TX 79912",
+    "address": "4935 N Mesa St #12, El Paso, TX",
+    "zip_code": "79912",
     "link": "https://www.facebook.com/tinmanep/",
-    "opens": "12:00pm",
     "food": true
   },
   {
     "id": "508",
     "name": "The Hoppy Monk",
-    "address": "4141 N Mesa St, El Paso, TX 79902",
+    "address": "4141 N Mesa St, El Paso, TX",
+    "zip_code": "79902",
     "link": "https://thehoppymonk.com/elpaso/",
-    "opens": "4:00pm",
     "food": false
   },
   {
     "id": "509",
     "name": "Aceitunas Beer Garden",
-    "address": "5200 Doniphan Dr, El Paso, TX 79932",
+    "address": "5200 Doniphan Dr, El Paso, TX",
+    "zip_code": "79932",
     "link": "https://m.facebook.com/profile.php?id=120332477982982",
-    "opens": "2:00pm",
     "food": false
   },
   {
     "id": "510",
     "name": "DeadBeach Brewery",
-    "address": "406 Durango St, El Paso, TX 79901",
+    "address": "406 Durango St, El Paso, TX",
+    "zip_code": "79901",
     "link": "https://www.deadbeach.com/",
-    "opens": "3:00pm",
     "food": false
   },
   {
     "id": "511",
     "name": "Craft and Social",
-    "address": "305 E Franklin Ave, El Paso, TX 79901",
+    "address": "305 E Franklin Ave, El Paso, TX",
+    "zip_code": "79901",
     "link": "https://www.facebook.com/craftandsocial/",
-    "opens": "5:00pm",
     "food": true
   },
   {
     "id": "512",
     "name": "Mountain Star Brewing Company",
-    "address": "11135 Pellicano Dr #2, El Paso, TX 79935",
+    "zip_code": "79935",
+    "address": "11135 Pellicano Dr #2, El Paso, TX",
     "link": "https://www.mountainstarbrewingcompany.com/",
-    "opens": "5:00pm",
     "food": false
   },
   {
     "id": "513",
     "name": "Old Sheepdog Brewery",
-    "address": "3900 Rosa Ave, El Paso, TX 79905",
+    "address": "3900 Rosa Ave, El Paso, TX",
+    "zip_code": "79905",
     "link": "https://www.facebook.com/oldsheepdogbrewery/",
-    "opens": "2:00pm",
     "food": false
   },
   {
     "id": "514",
     "name": "Undisputed Craft House",
-    "address": "1881 Saul Kleinfeld Dr, El Paso, TX 79936",
+    "address": "1881 Saul Kleinfeld Dr, El Paso, TX",
+    "zip_code": "79936",
     "link": "https://www.undisputedcrafthouse.com/",
-    "opens": "11:00am",
     "food": true
   },
   {
     "id": "515",
     "name": "The Lucky Dog Beer Garden",
-    "address": "1810 George Dieter Dr, El Paso, TX 79936",
+    "address": "1810 George Dieter Dr, El Paso, TX",
+    "zip_code": "79936",
     "link": "https://www.facebook.com/THELUCKYDOGEPTX/",
-    "opens": "2:00",
     "food": true
   },
   {
     "id": "516",
     "name": "Border City Ale House",
     "address": "1506 Lee Trevino Dr Suite G, El Paso, TX 79936",
+    "zip_code": "79936",
     "link": "https://www.bordercityalehouse.com/",
-    "opens": "3:00pm",
     "food": true
   },
   {
     "id": "517",
     "name": "Three Pints Pub",
-    "address": "10710 Gateway N Blvd a1, El Paso, TX 79924",
+    "address": "10710 Gateway N Blvd a1, El Paso, TX",
+    "zip_code": "79924",
     "link": "https://www.facebook.com/ThreePintsPub/",
-    "opens": "3:00pm",
     "food": false
   },
   {
     "id": "518",
     "name": "Vincent and Melo's Crafthouse",
     "address": "1691 N Zaragoza Rd Suite 3, El Paso, TX 79936",
+    "zip_code": "79936",
     "link": "https://vincentandmelos.com/",
-    "opens": "11:00am",
     "food": true
   },
   {
     "id": "601",
     "name": "Lazy Beach Brewing and Cafe",
-    "address": "7522 Bichon Dr #100, Corpus Christi, TX 78414",
+    "address": "7522 Bichon Dr #100, Corpus Christi, TX",
+    "zip_code": "78414",
     "link": "https://lazybeachbrewing.com/",
-    "opens": "5:00pm",
     "food": true
   },
   {
     "id": "602",
     "name": "Rebel Toad Brewing Co.",
-    "address": "425 Lomax St, Corpus Christi, TX 78401",
+    "address": "425 Lomax St, Corpus Christi, TX",
+    "zip_code": "78401",
     "link": "https://www.rebeltoadbrewing.com/",
-    "opens": "5:00pm",
     "food": false
   },
   {
     "id": "603",
     "name": "Lorelei Brewing Company",
-    "address": "520 NAS Dr, Corpus Christi, TX 78418",
+    "address": "520 NAS Dr, Corpus Christi, TX",
+   "zip_code": "78418",
     "link": "https://www.facebook.com/loreleibrewing/",
-    "opens": "2:30pm",
     "food": false
   },
   {
     "id": "604",
     "name": "Nueces Brewing and Barbecuing",
-    "address": "401 S Water St, Corpus Christi, TX 78401",
+    "address": "401 S Water St, Corpus Christi, TX",
+    "zip_code": "78401",
     "link": "https://www.nuecesbrewing.com/bbq-menu/",
-    "opens": "11:30am",
     "food": true
   },
   {
     "id": "605",
     "name": "Dewey's Beer Garden",
-    "address": "2302 Rodd Field Rd # 2, Corpus Christi, TX 78414",
+    "address": "2302 Rodd Field Rd # 2, Corpus Christi, TX",
+    "zip_code": "78414",
     "link": "http://www.deweysbeergarden.com/",
-    "opens": "2:00pm",
     "food": false
   },
   {
     "id": "606",
     "name": "Tapology Texas Pub",
-    "address": "4334 S Staples St, Corpus Christi, TX 78411",
+    "address": "4334 S Staples St, Corpus Christi, TX",
+    "zip_code": "78411",
     "link": "https://tapology-pub.edan.io/",
-    "opens": "2:00pm",
     "food": false
   },
   {
     "id": "607",
     "name": "Brewster Street Ice House",
-    "address": "1724 N Tancahua St, Corpus Christi, TX 78401",
+    "address": "1724 N Tancahua St, Corpus Christi, TX",
+    "zip_code": "78401",
     "link": "https://brewsterstreet.net/",
-    "opens": "11:00am",
     "food": false
   },
   {
     "id": "608",
     "name": "Hofbrau Bar",
-    "address": "1214 N Chaparral St, Corpus Christi, TX 78401",
+    "address": "1214 N Chaparral St, Corpus Christi, TX",
+    "zip_code": "78401",
     "link": "https://www.sirved.com/restaurant/corpus_christi-texas-usa/hofbrau-bar/640143/menus",
-    "opens": "11:00am",
     "food": true
   },
   {
     "id": "609",
     "name": "Watering Hole Pub",
     "address": "5723 Leopard St, Corpus Christi, TX 78408",
+    "zip_code": "78408",
     "link": "https://www.facebook.com/wateringholepub/",
-    "opens": "11:00am",
     "food": false
   },
   {
     "id": "610",
     "name": "Riley's Pub",
     "address": "6314 Yorktown Blvd Suite 106, Corpus Christi, TX 78414",
+    "zip_code": "78414",
     "link": "https://www.facebook.com/rileyspub2016/",
-    "opens": "11:00am",
     "food": true
   },
   {
     "id": "611",
     "name": "The Point of Corpus Christi",
     "address": "601 N Chaparral St, Corpus Christi, TX 78401",
+    "zip_code": "78401",
     "link": "https://www.facebook.com/ThePointofCorpusChristi/",
-    "opens": "11:00am",
     "food": true
   },
   {
     "id": "612",
     "name": "Oso Rose",
     "address": "2001 Yorktown Blvd #2, Corpus Christi, TX 78418",
+    "zip_code": "78418",
     "link": "https://www.facebook.com/p/Oso-Rose-Beer-Garden-100063760346386/",
-    "opens": "11:00am",
     "food": false
   },
   {
   "id": "701",
   "name": "Galveston Island Brewing",
   "address": "8423 Stewart Rd, Galveston, TX 77554",
+  "zip_code": "77554",
   "link": "https://www.galvestonislandbrewing.com/",
-  "opens": "2:00pm",
   "food": false
   },
   {
   "id": "702",
   "name": "Beerfoot Beach Bar",
   "address": "2816 Avenue R 1/2, Galveston, TX 77550",
+  "zip_code": "77550",
   "link": "https://beerfootisland.com/",
-  "opens": "4:00pm",
   "food": false
   },
   {
   "id": "703",
   "name": "Devil and The Deep Brewery",
   "address": "2425 Postoffice St, Galveston, TX 77550",
+  "zip_code": "77550",
   "link": "https://www.devilandthedeep.com/",
-  "opens": "4:00pm",
   "food": false
   },
   {
   "id": "704",
   "name": "Brews Brothers",
   "address": "2404 The Strand, Galveston, TX 77550",
+   "zip_code": "77550",
   "link": "https://www.facebook.com/BrewsBrothersGalveston/",
-  "opens": "11:00am",
   "food": true
   },
   {
   "id": "705",
   "name": "The Proletariat Gallery",
   "address": "2221 Market St #100, Galveston, TX 77550",
+  "zip_code": "77550",
   "link": "https://www.proletariatgallery.com/",
-  "opens": "11:00am",
   "food": true
   },
   {
   "id": "706",
   "name": "Shuttgarden Tavern",
   "address": "111 23rd St, Galveston, TX 77550",
+  "zip_code": "77550",
   "link": "https://stuttgardentavern.com/",
-  "opens": "11:00am",
   "food": true
   },
   {
   "id": "707",
   "name": "3 Doors Down Bar",
   "address": "102 20th St suite a, Galveston, TX 77550",
+  "zip_code": "77550",
   "link": "https://www.facebook.com/3DoorsDownBar/",
-  "opens": "4:00pm",
   "food": false
   },
   {
   "id": "708",
   "name": "Old Cellar Bar",
   "address": "2013 Postoffice St, Galveston, TX 77550",
+  "zip_code": "77550",
   "link": "https://www.galveston.com/nightlife/find-a-bar/mollys/",
   "opens": "6:00am",
   "food": false
