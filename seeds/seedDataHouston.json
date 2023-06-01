@@ -1,0 +1,205 @@
+[
+    {
+        "id": "101",
+        "name": "St. Arnold Brewing Company",
+        "address": "2000 Lyons Avenue, Houston, TX",
+        "zip_code": "77020",
+        "link": "https://www.saintarnold.com"
+    },
+    {
+        "id": "102",
+        "name": "8th Wonder Brewery",
+        "address": "2202 Dallas Street, Houston, TX",
+        "zip_code": "77003",
+        "link": "https://8thwonder.com"
+    },
+    {
+        "id": "103",
+        "name": "True Anomaly Brewing Co",
+        "address": "2012 Dallas Street, Houston, TX",
+        "zip_code": "77003",
+        "link": "https://www.trueanomalybrewing.com"
+    },
+    {
+        "id": "104",
+        "name": "Equal Parts Brewing",
+        "address": "3118 Harrisburg Boulevard, Unit 108, Houston, TX",
+        "zip_code": "77003",
+        "link": "https://equalpartsbrewing.com"
+    },
+    {
+        "id": "105",
+        "name": "Astral Brewing",
+        "address": "4816 North Shepherd Dr, Suite A, Houston, TX",
+        "zip_code": "77018",
+        "link": "https://www.astralbrewing.com"
+    },
+    {
+        "id": "106",
+        "name": "Brash Brewing Company",
+        "address": "508 West Crosstimbers Road, Houston, TX",
+        "zip_code": "77018",
+        "link": "Null"
+    },
+    {
+        "id": "107",
+        "name": "Eureka Heights Brew Company",
+        "address": "941 West 18th Street, Houston, TX",
+        "zip_code": "77008",
+        "link": "https://www.eurekaheights.com/?gclid=CjwKCAjwvdajBhBEEiwAeMh1U_JOkxmJhJ1shTTonR5ZoLq2A_xREpBCg_CkVe2fC6jbTjxL9VGMOBoC3C0QAvD_BwE"
+    },
+    {
+        "id": "108",
+        "name": "Great Heights Brewing Company",
+        "address": "938 Wakefield Drive, Houston, TX",
+        "zip_code": "77018",
+        "link": "https://ghbrewing.com"
+    },
+    {
+        "id": "109",
+        "name": "Karbach Brewing Company",
+        "address": "2032 Karbach Street, Houston, TX",
+        "zip_code": "77092",
+        "link": "https://www.karbachbrewing.com"
+    },
+    {
+        "id": "110",
+        "name": "Walking Stick Brewing Company",
+        "address": "956 Judiway Street, Houston, TX",
+        "zip_code": "77018",
+        "link": "https://walkingstickbrewing.com"
+    },
+    {
+        "id": "111",
+        "name": "Buffalo Bayou Brewing Company",
+        "address": "2201 Summer Street, Houston, TX",
+        "zip_code": "77007",
+        "link": "https://www.buffbrew.com"
+    },
+    {
+        "id": "112",
+        "name": "Holler Brewing Company",
+        "address": "2206 Edwards Street, Houston, TX",
+        "zip_code": "77007",
+        "link": "https://hollerbeer.com"
+    },
+    {
+        "id": "113",
+        "name": "Platypus Brewing Company",
+        "address": "1902 Washington Ave, Suite E, Houston, TX",
+        "zip_code": "77007",
+        "link": "https://platypus-brewing.com"
+    },
+    {
+        "id": "114",
+        "name": "Urban South HTX Brewing",
+        "address": "1201 Oliver Street, Houston, TX",
+        "zip_code": "77007",
+        "link": "https://urbansouthbrewery.com/taprooms/houston"
+    },
+    {
+        "id": "115",
+        "name": "Baileson Brewing Company",
+        "address": "2322 Bissonnet Street, Houston, TX",
+        "zip_code": "77005",
+        "link": "https://www.bailesonbrewing.com"
+    },
+    {
+        "id": "116",
+        "name": "Under the Radar Brewing",
+        "address": "1506 Trujillo Street, Houston, TX",
+        "zip_code": "77004",
+        "link": "https://www.undertheradarbrewery.com"
+    },
+    {
+        "id": "117",
+        "name": "11 Below Brewing Company",
+        "address": "6820 Bourgeois Road, Houston, TX",
+        "zip_code": "77066",
+        "link": "http://11belowbrewing.com"
+    },
+    {
+        "id": "118",
+        "name": "City Acre Brewing",
+        "address": "3418 Topping Street, Houston, TX",
+        "zip_code": "77093",
+        "link": "https://www.cityacrebrewing.com"
+    },
+    {
+        "id": "119",
+        "name": "Spindletap Brewery",
+        "address": "10622 Hirsch Road, Houston, TX",
+        "zip_code": "77016",
+        "link": "https://spindletap.com"
+    },
+    {
+        "id": "120",
+        "name": "City Orchard Cider",
+        "address": "1201 Oliver Street, Unit 108, Houston, TX",
+        "zip_code": "77007",
+        "link": "https://cityorchardhtx.com"
+    },
+    {
+        "id": "121",
+        "name": "4J Brewing Company",
+        "address": "1348 Cedar Post Ln, Houston, TX",
+        "zip_code": "77055",
+        "link": "https://www.4jbrewingcompany.com"
+    },
+    {
+        "id": "122",
+        "name": "Whole Foods Market Brewing Company",
+        "address": "1700 Post Oak Boulevard, Unit 100, Houston, TX",
+        "zip_code": "77056",
+        "link": "https://www.wholefoodsmarket.com"
+    },
+    {
+        "id": "123",
+        "name": "Elder Son Brewing Company",
+        "address": "946 North Shepherd Drive, Unit A, Houston, TX",
+        "zip_code": "77008",
+        "link": "https://eldersonbrewing.com"
+    },
+    {
+        "id": "124",
+        "name": "The Phoenix on Westheimer",
+        "address": "1915 Westheimer Road, Houston, TX",
+        "zip_code": "77098",
+        "link": "http://www.phoenixow.com/dr8/"
+    },
+    {
+        "id": "125",
+        "name": "Turkey Forrest Brewing",
+        "address": "1848 Airline Drive, Suite C, Houston, TX",
+        "zip_code": "77009",
+        "link": "https://www.bigowlcbh.com/brew"
+    },
+    {
+        "id": "126",
+        "name": "Black Page Brewing Company",
+        "address": "210 Glen Park Street, Houston, TX",
+        "zip_code": "77009",
+        "link": "http://www.blackpagebrewing.com"
+    },
+    {
+        "id": "127",
+        "name": "Local Group Brewing",
+        "address": "1504 Chapman Street, Houston, TX",
+        "zip_code": "77009",
+        "link": "https://lclgrp.bdev1.com"
+    },
+    {
+        "id": "128",
+        "name": "Frost Town Brewing",
+        "address": "100 North Jackson Street, Houston, TX",
+        "zip_code": "77002",
+        "link": "https://www.frosttownbrew.com"
+    },
+    {
+        "id": "129",
+        "name": "The Moon Tower Inn",
+        "address": "3004 Canal Street, Houston, TX",
+        "zip_code": "77003",
+        "link": "https://www.moontowerinn.com"
+    }
+]
