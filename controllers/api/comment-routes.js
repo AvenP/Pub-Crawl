@@ -2,6 +2,7 @@ const router = require('express').Router();
 const { Comment } = require('../../models/');
 const withAuth = require('../../utils/auth');
 
+
 router.get('/', withAuth, async (req, res) => {
  try{ 
   const commentData = await Comment.findAll({
@@ -18,6 +19,7 @@ router.get('/', withAuth, async (req, res) => {
 }
 });
 
+
 router.post('/', withAuth, async (req, res) => {
   const body = req.body;
 
@@ -31,5 +33,6 @@ router.post('/', withAuth, async (req, res) => {
     res.status(500).json(err);
   }
 });
+
 
 module.exports = router;
