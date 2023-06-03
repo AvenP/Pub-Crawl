@@ -1,4 +1,6 @@
-[
+const { Category } = require('../models');
+
+const DallasData =[
     {
         "name": " Intrinsic Smokehouse Brewery + BBQ Catering",
         "address": "509 W State St, Garland, TX",
@@ -170,7 +172,7 @@
         "address": " 7331 Gaston Ave #100, Dallas, TX",
         "zip_Code": 75214,
         "link": "https://www.whiterockalehouse.com/",
-        "id": 320
+        "id": 321
       },
     
       {
@@ -178,7 +180,7 @@
         "address": "  2222 Vantage St, Dallas, TX",
         "zip_Code": 75207,
         "link": "https://www.pegasuscitybrewery.com/",
-        "id": 321
+        "id": 322
       },
     
       {
@@ -186,7 +188,7 @@
         "address": "   4488 Spring Valley Rd, Farmers Branch, TX",
         "zip_Code": 75244,
         "link": "https://oddmusebrewing.com/",
-        "id": 322
+        "id": 323
       },
     
       {
@@ -194,7 +196,7 @@
         "address": "    9850 Walnut Hl Ln #405, Dallas, TX ",
         "zip_Code": 75238,
         "link": "https://www.vectorbrewing.com/",
-        "id": 323
+        "id": 324
       },
 
       {
@@ -202,7 +204,7 @@
         "address": "     2816 Commerce St, Dallas, TX ",
         "zip_Code": 75226,
         "link": "https://www.westlakebeer.com/",
-        "id": 324
+        "id": 325
       },
 
       {
@@ -210,7 +212,7 @@
         "address": "   2656 Main Street, Suite 120, Dallas, TX ",
         "zip_Code": 75226,
         "link": "https://trinitycider.com/",
-        "id": 325
+        "id": 326
       },
 
       {
@@ -218,7 +220,7 @@
         "address": "   509 N. Bishop Avenue ",
         "zip_Code": 75208,
         "link": "https://www.bishopcider.com/",
-        "id": 326
+        "id": 327
       },
 
       {
@@ -226,7 +228,7 @@
         "address": " 3601 Parry Ave, Dallas, TX  ",
         "zip_Code": 75226,
         "link": "https://craftandgrowler.com/",
-        "id": 327
+        "id": 328
       },
 
       {
@@ -234,7 +236,7 @@
         "address": " 3699 McKinney Ave #319, Dallas, TX ",
         "zip_Code": 75204,
         "link": "https://www.malaikitchen.com/",
-        "id": 328
+        "id": 329
       },
 
       {
@@ -242,14 +244,18 @@
         "address": " 2015 Kristy Ln, Rockwall, TX ",
         "zip_Code": 75032,
         "link": "https://www.beerinbigd.com/",
-        "id": 329
+        "id": 330
       },
       {
         "name": "Bankhead Brewing - Rowlett",
         "address": " 3840 Main St, Rowlett, TX",
         "zip_Code": 75088,
         "link": "https://www.bankheadbrewing.com/",
-        "id": 329
+        "id": 331
       }
 
-    ]
+    ];
+
+const seedDataDallas = () => Category.bulkCreate(DallasData);
+
+module.exports = seedDataDallas;
