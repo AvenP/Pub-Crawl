@@ -23,6 +23,7 @@
       "express-session": "^1.17.1",
       "mysql2": "^2.2.5",
       "sequelize": "^6.21.3",
-      "sqlite3": "^5.0.9"
+      "sqlite3": "^5.0.9",
+      "npm-path": "^2.0.4"
   }
 }
