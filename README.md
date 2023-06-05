@@ -1,8 +1,8 @@
-# Pub-Crawl
+# Craft-Crawler
 
 ## Project Summary
 
-An application to create your very own pub crawl for you and your friends. Where you can visit local breweries and distilleries local to the area
+An application to create your very own brewery tour for you and your friends. Where you can visit local breweries and cideries local to the area
 
 
 ## Developers
@@ -39,8 +39,6 @@ MySQL
 
 
 - What libraries are used: 
-https://www.npmjs.com/package/beermapping-api
-Uber API
 Sequelize
 
 - Other: 
@@ -48,20 +46,19 @@ Sequelize
 
 ## APIs
 
-- Uber API
-- https://developer.uber.com/docs/riders/ride-requests/tutorials/api/java#get-estimates-for-time-and-price
+- Created own API for the database
 
 
 ## MVP (Minimum Viable Product)
 
--  Have full stack API that allow user to plan for multiple breweries and see the cost to travel between multiple locations.
--  User(buyer) be able to search for brewery
--  User will get a recommendation of the pub crawl between multiple breweries
+-  Have full stack API that allow user to plan trips for multiple breweries.
+-  User will be able to search for brewery
+-  User will get a recommendation tour between multiple breweries
 -  Log-in to the application, validate credentials
 -  Post brewery into the database 
 -  Delete brewery from the database
 -  Update posting information
--  Database seeds data from breweries located in Houston and Dallas
+-  Database seeds data from breweries located in Houston, Dallas/DFW, Austin, San Antonio, and other smaller Texas cities.
    
 
 ## Stretch Goals
