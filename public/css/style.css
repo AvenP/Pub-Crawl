@@ -1,10 +1,10 @@
 body {
     min-height: 100%;
-    background-image: url(http://localhost:3001/images/engin-akyurt-G26eJNYZA24-unsplash.jpg);
+    background-image: url(./images/engin-akyurt-G26eJNYZA24-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
-
+    overflow-x: hidden;
 }
 
 .dropdown-menu {
@@ -27,6 +27,7 @@ img {
     margin-bottom: 10px;
     max-height: 200px;
     max-width: 1300px;
+
 }
 
 .card-title-crawls {
@@ -52,17 +53,42 @@ img {
     transform-origin: top left;
 }
 
+#savedCrawl {
+    height: 454px !important;
+}
+
+#popularCrawls {
+    height: 454px !important;
+}
+
 .card-title-breweries {
     font-size: 125px;
     color: whitesmoke;
 }
 
 .card {
-    transition: all .2s ease-in-out;
+    transition: transform 1500ms;
+    transform-style: preserve-3d;
+    /* transition: all .2s ease-in-out; */
 }
 
-.card:hover {
+.card:hover:not(.no-flip) {
     transform: scale(1.05);
     box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
-    opacity: .7;
+    transform: rotateY(180deg);
+}
+
+.flip-card {
+    position: relative;
+}
+
+.front,
+.back {
+    backface-visibility: hidden;
+}
+
+.back {
+    position: absolute;
+    text-align: center;
+    transform: rotateY(180deg);
 }
