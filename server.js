@@ -26,9 +26,9 @@ const sess = {
  
   app.use(express.static("public"));
 
-  app.get('/', (req, res) => {
-    res.send(index)
-  });
+  // app.get('/', (req, res) => {
+  //   res.send(index)
+  // });
 
   app.use(session(sess));
   

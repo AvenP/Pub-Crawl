@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Post, Comment, User } = require('../models/');
+const { Post, Comment, User, Pub } = require('../models/');
 const withAuth = require('../utils/auth');
 
 
@@ -65,5 +65,91 @@ router.get('/signup', (req, res) => {
 
   res.render('signup');
 });
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////START
+
+//                                                         // GET all Breweries for homepage
+// router.get('/', async (req, res) => {
+//   try {
+//     const dbPubData = await Pub.findAll({
+//       include: [
+//         {
+//           model: Painting,
+//           attributes: ['filename', 'description'],
+//         },
+//       ],
+//     });
+
+//     const galleries = dbGalleryData.map((gallery) =>
+//       gallery.get({ plain: true })
+//     );
+
+//     res.render('homepage', {
+//       galleries,
+//     });
+//   } catch (err) {
+//     console.log(err);
+//     res.status(500).json(err);
+//   }
+// });
+
+//                                                                            // GET one City Breweries
+// router.get('/gallery/:id', async (req, res) => {
+//   try {
+//     const dbGalleryData = await Gallery.findByPk(req.params.id, {
+//       include: [
+//         {
+//           model: Painting,
+//           attributes: [
+//             'id',
+//             'title',
+//             'artist',
+//             'exhibition_date',
+//             'filename',
+//             'description',
+//           ],
+//         },
+//       ],
+//     });
+
+//     const gallery = dbGalleryData.get({ plain: true });
+//     res.render('gallery', { gallery });
+//   } catch (err) {
+//     console.log(err);
+//     res.status(500).json(err);
+//   }
+// });
+
+//                                                                                // GET one Brewery
+// router.get('/painting/:id', async (req, res) => {
+//   try {
+//     const dbPaintingData = await Painting.findByPk(req.params.id);
+
+//     const painting = dbPaintingData.get({ plain: true });
+
+//     res.render('brewery', { brewery });
+//   } catch (err) {
+//     console.log(err);
+//     res.status(500).json(err);
+//   }
+// });
+
+//                                                                                       // GET your Crawl
+// router.get('/painting/:id', async (req, res) => {
+//   try {
+//     const dbPaintingData = await Painting.findByPk(req.params.id);
+
+//     const painting = dbPaintingData.get({ plain: true });
+
+//     res.render('brewery', { brewery });
+//   } catch (err) {
+//     console.log(err);
+//     res.status(500).json(err);
+//   }
+// });
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////END
+
+
+
 
 module.exports = router;

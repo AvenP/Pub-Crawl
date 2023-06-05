@@ -1,8 +1,8 @@
-const loginFormHandler = async function(event) {
+const popularCrawl = async function(event) {
     event.preventDefault();
   
-    const usernameEl = document.querySelector('#dropdownFormEmail');
-    const passwordEl = document.querySelector('#dropdownFormPassword');
+    const usernameEl = document.querySelector('#username-input-login');
+   
   
     const response = await fetch('/api/user/login', {
       method: 'POST',
@@ -20,6 +20,8 @@ const loginFormHandler = async function(event) {
     }
   };
   
+
+
   document
     .querySelector('.login-form')
     .addEventListener('submit', loginFormHandler);

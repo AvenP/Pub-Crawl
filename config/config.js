@@ -14,7 +14,7 @@ const sequelize = process.env.JAWSDB_URL
 
     process.env.DB_NAME = 'brewery_db',
     process.env.DB_USER = 'root',
-    process.env.DB_PW = 'monterrey1$M',
+    process.env.DB_PW = 'password',
 
     {
       host: 'localhost',
