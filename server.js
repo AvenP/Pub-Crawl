@@ -23,7 +23,13 @@ const sess = {
       db: sequelize
     })
   };
-  
+ 
+  app.use(express.static("public"));
+
+  app.get('/', (req, res) => {
+    res.send(index)
+  });
+
   app.use(session(sess));
   
   app.engine('handlebars', hbs.engine);
@@ -39,3 +45,5 @@ const sess = {
     console.log(`App listening on port ${PORT}!`);
     sequelize.sync({ force: false });
   });
+
+  

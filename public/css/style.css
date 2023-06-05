@@ -1,0 +1,68 @@
+body {
+    min-height: 100%;
+    background-image: url(http://localhost:3001/images/engin-akyurt-G26eJNYZA24-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+
+.dropdown-menu {
+    width: 250px;
+}
+
+.card-img {
+    object-fit: cover;
+    height: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img {
+    opacity: .8;
+}
+
+.brewery-card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    max-height: 200px;
+    max-width: 1300px;
+}
+
+.card-title-crawls {
+    font-size: 100px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 90px;
+    color: whitesmoke;
+    position: absolute;
+    top: 120%;
+    left: 105%;
+    transform: translate(-40%, -40%) rotate(-90deg);
+    text-align: center;
+    height: 32px;
+    line-height: 80px;
+    padding: 0 1em;
+    transform-origin: top left;
+}
+
+.card-title-breweries {
+    font-size: 125px;
+    color: whitesmoke;
+}
+
+.card {
+    transition: all .2s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    opacity: .7;
+}
