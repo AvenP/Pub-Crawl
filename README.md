@@ -66,6 +66,7 @@ Sequelize
 - User able to upload multiple pictures furing the tour
 - Adding distilleries to the application
 - User can provide a rating of each brewery
-
+- Add more cities to the database
+- Picture upload
 
 ## 
