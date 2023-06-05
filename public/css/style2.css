@@ -98,3 +98,50 @@ img {
     text-align: center;
     transform: rotateY(180deg);
 }
+
+.brewRow {
+    background: whitesmoke;
+    border-radius: 30px;
+    box-shadow: 12px 12px 12px black;
+    opacity: .9;
+}
+
+.img-fluid {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    opacity: .6;
+}
+
+.btn1 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(115, 115, 115);
+    color: whitesmoke;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn2 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 40%;
+    background-color: rgb(115, 115, 115);
+    color: whitesmoke;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn1:hover {
+    background: whitesmoke;
+    border: 1px solid;
+    color: rgb(115, 115, 115);
+}
+
+.btn2:hover {
+    background: whitesmoke;
+    border: 1px solid;
+    color: rgb(115, 115, 115);
+}
