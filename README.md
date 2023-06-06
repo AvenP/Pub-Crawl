@@ -15,9 +15,15 @@ An application to create your very own brewery tour for you and your friends. Wh
 
 4. Mauricio Gomez
 
-## Installation Instructions
+## Installation
 
-- Clone our repo to your computer. Open a terminal and use command "npm install" to install dependencies. Change the .env file to reflect your credentials (you may also need to make the same change the config.js file on line 17). Run MySQL and "source db/schema.sql" to create the database.  Quit MySQL.  Run command "node seeds/index.js" to seed the database. Run command "npm start" to launch, open browser, navigate to localhost:3001 to run application.  You will need to create a username and password.
+- - Clone our repo to your computer. Open a terminal and use command "npm install" to install dependencies. Change the .env file to reflect your credentials (you may also need to make the same change the config.js file on line 17). Run MySQL and "source db/schema.sql" to create the database.  Quit MySQL.  Run command "node seeds/index.js" to seed the database. Run command "npm start" to launch, open browser, navigate to localhost:3001 to run application.  You will need to create a username and password.
+
+- ...
+
+## Presentation Link
+
+- - https://docs.google.com/presentation/d/1SmCtoaAHMCGxg2_rZ5HkcomrbE9IXhHwceIQWUSHxIg/edit?usp=sharing
 
 ## Motivation
 
