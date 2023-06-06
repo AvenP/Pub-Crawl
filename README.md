@@ -15,11 +15,17 @@ An application to create your very own brewery tour for you and your friends. Wh
 
 4. Mauricio Gomez
 
+<<<<<<< HEAD
 ## Installation
 
 - - Clone our repo to your computer. Open a terminal and use command "npm install" to install dependencies. Change the .env file to reflect your credentials (you may also need to make the same change the config.js file on line 17). Run MySQL and "source db/schema.sql" to create the database.  Quit MySQL.  Run command "node seeds/index.js" to seed the database. Run command "npm start" to launch, open browser, navigate to localhost:3001 to run application.  You will need to create a username and password.
 
 - ...
+=======
+## App Link
+
+https://craft-crawler.herokuapp.com/
+>>>>>>> 24c16f0707acee6b0ba0273aae97824f176eab5c
 
 ## Presentation Link
 
