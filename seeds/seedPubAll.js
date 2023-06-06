@@ -1695,3 +1695,13 @@ const PubAll =[
 const seedPubAll = () => Category.bulkCreate(PubAll);
 
 module.exports = seedPubAll;
+
+
+
+// Router.get('', (request, response) => {
+//   response.send(supermarkets);
+// });
+
+
+// module.exports = router;
+
