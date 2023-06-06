@@ -134,10 +134,17 @@ input {
   background-color: var(--dark);
   color: var(--primary);
   background-image: url(http://localhost:3001/images/micheile-henderson-7NFwwp-vZk8-unsplash.jpg);  
+  
 }
 
 .hero p {
   max-width: 75%;
+}
+
+#picture1 {
+  max-height: 75%;
+  max-width: 75%;
+  margin-left: 10%;
 }
 
 .app-title {

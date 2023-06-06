@@ -37,7 +37,11 @@ https://craft-crawler.herokuapp.com/
 
 ## Animated Gifs/Pictures of App
 
-- Place various screens of your app here after they have been built
+- Home Dash
+![image](https://github.com/AvenP/Pub-Crawl/assets/123212035/a2130e10-e511-451a-b39b-415a6f04dc61)
+
+-Crawl Selction
+
 
 ## Tech Stack
 
