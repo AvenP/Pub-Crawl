@@ -17,10 +17,11 @@ An application to create your very own brewery tour for you and your friends. Wh
 
 ## Installation Instructions
 
-- Clone our repo to your computer
+- Clone our repo to your computer. Open a terminal and use command "npm install" to install dependencies. Change the .env file to reflect your credentials (you may also need to make the same change the congig.js file on line 17). Run MySQL and "source db/schema.sql" to create the database.  Quit MySQL.  Run command "node seeds/index.js" to seed the database. Run command "npm start" to launch, open browser, navigate to localhost:3001 to run application.  You will need to create a username and password.
 
-- ...
+## Motivation
 
+- Allow users to create their very own Pub Crawl any day of the week, without having to wait for special events to promote a specific Pub Crawl.  
 
 ## Animated Gifs/Pictures of App
 
