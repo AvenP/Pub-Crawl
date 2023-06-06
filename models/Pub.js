@@ -40,7 +40,12 @@ Pub.init(
     link: {
         type: DataTypes.STRING,
         allowNull: true,
-    }
+    },
+
+    city: {
+        type: DataTypes.STRING,
+        allowNull: false,
+    },
   },
   
   {
@@ -48,7 +53,7 @@ Pub.init(
     timestamps: false,
     freezeTableName: true,
     underscored: true,
-    modelName: 'Pub',
+    modelName: 'brewery',
   }
 );
 

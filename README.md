@@ -15,11 +15,13 @@ An application to create your very own brewery tour for you and your friends. Wh
 
 4. Mauricio Gomez
 
-## Installation Instructions
+## App Link
 
-- Clone our repo to your computer
+https://craft-crawler.herokuapp.com/
 
-- ...
+## Presentation Link
+
+- https://docs.google.com/presentation/d/1SmCtoaAHMCGxg2_rZ5HkcomrbE9IXhHwceIQWUSHxIg/edit?usp=sharing
 
 
 ## Animated Gifs/Pictures of App
