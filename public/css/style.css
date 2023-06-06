@@ -141,12 +141,6 @@ input {
   max-width: 75%;
 }
 
-#picture1 {
-  max-height: 75%;
-  max-width: 75%;
-  margin-left: 10%;
-}
-
 .app-title {
   font-size: 3rem;
   background-color: rgb(220, 220, 241);
